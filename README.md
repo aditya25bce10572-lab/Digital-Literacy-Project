@@ -75,7 +75,7 @@ Set up professional profiles on **GitHub**, **LinkedIn**, and **Kaggle**. The Gi
 ### Task 3 – Coding & Collaboration Platforms (Module 3)
 Completed a beginner challenge on **HackerRank** (Solve Me First). Also created a 5-question **Google Form** — "Digital Literacy Awareness Quiz" — that can be used to quiz batchmates.
 
-🔗 **Google Form Quiz Link:** [https://docs.google.com/forms/d/e/1FAIpQLSdEBXi1gp6RqBr_517Ac9zbDabrLdIbqaSxaQSvIK2XWWcfyw/viewform?usp=publish-editor]
+🔗 **Google Form Quiz Link:** https://docs.google.com/forms/d/e/1FAIpQLSdEBXi1gp6RqBr_517Ac9zbDabrLdIbqaSxaQSvIK2XWWcfyw/viewform?usp=header
 
 📁 See: `task-3-platforms/`
 
