@@ -6,17 +6,25 @@
 ## Student Details
 
 | **Name** | Aditya Vinayak Pathak |
+
 | **Registration No.** | 25BCE10572 |
-| **Branch** | Computer Science Engineerin |
+
+| **Branch** | Computer Science Engineering |
+
 | **Year** | First Year B.Tech |
+
 | **Course Code** | CSE0001 – Digital Literacy |
+
 | **Academic Year** | 2025–26 |
+
 
 ---
 
 ## Project Overview
 
 This repository is my **Digital Literacy Portfolio**, submitted as part of the CSE0001 course at VIT University. The project is structured around five modules, each mapped to a specific task that demonstrates digital awareness, professional online presence, platform literacy, communication skills, and cybersecurity awareness.
+
+I have taken on the role of a **Student Digital Ambassador** — helping peers navigate the digital world safely and professionally.
 
 ---
 
